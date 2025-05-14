@@ -1,12 +1,39 @@
-- ✊ Hi, I’m @sayan07dz  
-- 👁️‍🗨️ I’m interested in pushing past all limits — mastering full-stack development, cybersecurity, and AI, to reshape the digital walls that confine us.  
-- 🌱 I’m currently learning life and the philosophies that define true freedom. 
-- 🤝 I’m looking to collaborate on projects that challenge the norm — systems that fight inefficiency, just like the Survey Corps battles Titans.  
-- 📫 How to reach me: Reach out via [Telegram](#) or send a raven... kidding, email me at sayanpati18@gmail.com  
-- ⚔️ Pronouns: He/Him (But I respond to “Scout” too)  
-- ⚡ Fun fact: No Fun in Life.
+# Hey there, I'm Sayan!  
 
-<!---
-sayan07dz/sayan07dz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub space!  
+I'm a curious student, passionate about learning, building, and sharing cool tech stuff. I love experimenting with code and constantly pushing myself to learn new tools and technologies.
+
+---
+
+## About Me  
+
+- 🎓 I'm currently a student, diving deep into the world of development and problem-solving.
+
+- 💡 I enjoy exploring new tech, especially in the areas of web development, open-source, and automation.
+
+- 🛠️ I’m currently working on sharpening my skills in JavaScript, Python, and React.
+
+- 🌱 I’m always learning something new — whether it’s a framework, a language, or a soft skill!
+
+- 📫 How to reach me:
+
+- Email me at  sayanpati18@gmail.com
+
+---
+
+## What I Know
+
+Here’s a quick peek at the tools and technologies I’ve worked with:
+
+Languages  
+Python JavaScript C/C++ HTML CSS
+
+Frameworks & Libraries  
+React Node.js Tailwind CSS Express.js
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> – Cory House
+
+Thanks for stopping by! Keep coding and keep growing.
