@@ -15,9 +15,7 @@ I'm a curious student, passionate about learning, building, and sharing cool tec
 
 - 🌱 I’m always learning something new — whether it’s a framework, a language, or a soft skill!
 
-- 📫 How to reach me:
-
-- Email me at  sayanpati18@gmail.com
+- 📫 How to reach me: Email me at  sayanpati18@gmail.com
 
 ---
 
